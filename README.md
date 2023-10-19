@@ -1,5 +1,4 @@
-<div style="background-color:🟨">
-  ### Olá bem-vindo(a) ao meu perfil. Meu nome é Victor.
+### Olá bem-vindo(a) ao meu perfil. Meu nome é Victor.
 <hr>
 
 **Estudando: Curso Técnico em Informática**<br>
@@ -12,7 +11,5 @@
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-fiabane&show_icons=true&theme=codeSTACKr&locale=pt-br"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-fiabane&layout=compact&theme=codeSTACKr&locale=pt-br"/>
-</div>
-
 </div>
 
