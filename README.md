@@ -3,16 +3,10 @@
 
 **Estudando: Curso Técnico em Informática**<br>
 **Línguas: Português Fluente, Inglês Avançado**<br>
-**Interesses: **
-
+**Preferências : Front-End, Back-End, Banco de dados**
+**Interesses: Sci-Fi, Automobilismo, **
 * Teste
 
-
-```diff
-
--! TESTANDO !-
-
-```
 
 <!--<div>
   <h3>Como </h3>
