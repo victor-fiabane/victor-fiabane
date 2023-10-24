@@ -13,7 +13,7 @@
   <h3>Como </h3>
 <a href="mailto:vfiabane2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<a href="https://www.linkedin.com/in/victor-fiabane-9a75bb227/?otpToken=MWIwMDFhZTAxMDJmY2NjY2I3MjQwNGVjNGYxNmU3YmQ4N2M3ZDM0ODk5YTg4NzYxNzljNTA5NjY0OTUzNTlmMmZlZDJkZjg2NTFlOWU3YzI1ZDhmY2EzZmQ2OWNjYmMxZGEzZTI0Y2ZiNmZiN2I4NWI5ZTYxYSwxLDE%3D&midSig=3IdNwMRJBgSqY1&eid=frzzrj-lo3g9i8d-uq&midToken=AQHoXXKMNKo9Mg&trkEmail=eml-email_notification_digest_01-header-0-profile_glimmer-null-frzzrj%7Elo3g9i8d%7Euq-null-null&trk=eml-email_notification_digest_01-header-0-profile_glimmer&originalSubdomain=br"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/victor-fiabane"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/victor_fiabane/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <hr>
   
