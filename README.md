@@ -1,7 +1,8 @@
 **<h1>Olá bem-vindo(a) ao meu perfil. Meu nome é Victor.</h1>**
 <hr>
 
-* **Estudando: Curso Técnico em Informática**<br>
+* **Estudando: Análise e Desenvolvimento de Sistemas**<br>
+* **Formação: Curso Técnico em Informática**<br>
 * **Línguas: Português Fluente, Inglês Avançado**<br>
 * **Preferências : Front-End, Back-End, Banco de dados**<br>
 * **Interesses: Sci-Fi, Automobilismo, Gaming**<br>
