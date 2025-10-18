@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 </div>
 <hr>
 <h3>Banco de Dados</h3>
@@ -25,15 +26,6 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <hr>
-<h3>Estudando</h3>
-<div>
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
-</div>
-<h3>Plataformas de Jogos</h3>
-<div>
-<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-</div>
 <h3>Detalhes do Perfil</h3>
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-fiabane&show_icons=true&theme=codeSTACKr&locale=pt-br"/>
