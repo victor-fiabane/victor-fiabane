@@ -3,11 +3,12 @@
 
 * **Estudando: Análise e Desenvolvimento de Sistemas**<br>
 * **Formação: Curso Técnico em Informática**<br>
+/*
 * **Línguas: Português Fluente, Inglês Avançado**<br>
 * **Preferências : Front-End, Back-End, Banco de dados**<br>
 * **Interesses: Sci-Fi, Automobilismo, Gaming**<br>
 * **Contato: vfiabane2005@gmail.com**
-
+*/
 
 
 <hr>
